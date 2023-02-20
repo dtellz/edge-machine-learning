@@ -8,8 +8,10 @@ mnist = tf.keras.datasets.fashion_mnist
 
 class myCallback(tf.keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs={}):
-        if(): # < ---------------------------------------------------------  RESUME HERE! (last code block in collab)
-            self.mode.stop_training = True
+        modelAcu = logs.get('accuracy')
+        print(f"Seen accuray -> {modelAcu}")
+        if(epoch > 1 and modelAcu < 0.85): # < ---------------------------------------------------------  RESUME HERE! (last code block in collab)
+            self.model.stop_training = True
 callbacks = myCallback()
 
 #define the model
