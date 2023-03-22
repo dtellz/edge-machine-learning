@@ -8,3 +8,5 @@
 
 [https://www.tensorflow.org/guide/saved_model](Saved models)
 [https://www.tensorflow.org/tfx/guide/serving](Serving a model over HTTP)
+[https://www.tensorflow.org/lite](Tensorflow Lite)
+
