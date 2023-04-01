@@ -12,3 +12,6 @@
 [https://www.tensorflow.org/lite/microcontrollers](Tensorflow Lite Micro)
 [https://www.tensorflow.org/js](Tensorflow JS)
 
+[https://www.tensorflow.org/lite/guide/inference#load_and_run_a_model_in_python](Running inference with saved models using tensorflow lite)
+[https://www.tensorflow.org/lite/performance/post_training_quantization](Post training quantization)
+
