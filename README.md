@@ -15,3 +15,4 @@
 [https://www.tensorflow.org/lite/guide/inference#load_and_run_a_model_in_python](Running inference with saved models using tensorflow lite)
 [https://www.tensorflow.org/lite/performance/post_training_quantization](Post training quantization)
 
+[https://www.tensorflow.org/model_optimization/guide/quantization/training](Quantization aware training)
