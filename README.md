@@ -19,6 +19,9 @@
 
 [https://www.tensorflow.org/lite/models/convert](Model conversion to TF Lite)
 
+[https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/checkpoint.ipynb](Model checkpoin files exploration - hands on)
+
+
 ## Extra
 [https://sites.google.com/g.harvard.edu/tinyml/home](Assigments, projects and more info from Harvard's onsite course)
 
