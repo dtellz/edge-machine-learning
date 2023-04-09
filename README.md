@@ -18,3 +18,7 @@
 [https://www.tensorflow.org/model_optimization/guide/quantization/training](Quantization aware training)
 
 [https://www.tensorflow.org/lite/models/convert](Model conversion to TF Lite)
+
+## Extra
+[https://sites.google.com/g.harvard.edu/tinyml/home](Assigments, projects and more info from Harvard's onsite course)
+
