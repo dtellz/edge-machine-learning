@@ -16,3 +16,5 @@
 [https://www.tensorflow.org/lite/performance/post_training_quantization](Post training quantization)
 
 [https://www.tensorflow.org/model_optimization/guide/quantization/training](Quantization aware training)
+
+[https://www.tensorflow.org/lite/models/convert](Model conversion to TF Lite)
