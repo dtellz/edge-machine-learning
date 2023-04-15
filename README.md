@@ -1,6 +1,7 @@
 # Toolkits for production AI application
 [https://coral.ai](Coral AI)
 [https://coral.ai/examples/#project-tutorials](Real world project tutorials)
+[https://commonvoice.mozilla.org/en](Open Source Speech datasets. KeyWordSpot, FullSentenceSegments, etc.)
 
 
 # Introduction to TinyML
