@@ -45,6 +45,10 @@
 
 [buffered prefecth technique to improve data performance with TensorFlow API](https://www.tensorflow.org/guide/data_performance)
 
+[Overfit and underfit](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
+
+[Data augmentation - improve model quality and diversity applying zoom and rotation to images](https://www.tensorflow.org/tutorials/images/data_augmentation)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
