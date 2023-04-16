@@ -57,7 +57,9 @@
 
 # Anomaly detection
 
-[MIMII Dataset: sound dataset for malfunctioning indistrial machines](https://arxiv.org/pdf/1909.09347.pdf)
+[MIMII Dataset paper: sound dataset for malfunctioning industrial machines](https://arxiv.org/pdf/1909.09347.pdf)
+
+[Link to MIMII Dataset](https://zenodo.org/record/3384388#.ZDxLBy8w0eY)
 
 # Colabs
 
