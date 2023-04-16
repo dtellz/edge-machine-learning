@@ -49,6 +49,8 @@
 
 [Data augmentation - improve model quality and diversity applying zoom and rotation to images](https://www.tensorflow.org/tutorials/images/data_augmentation)
 
+[Pixel re-escaling layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Rescaling)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
