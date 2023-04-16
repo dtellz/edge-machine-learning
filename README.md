@@ -37,3 +37,5 @@
 
 ## Extra
 [Assigments, projects and more info from Harvard's onsite course](https://sites.google.com/g.harvard.edu/tinyml/home)
+
+[Harvard's maching learning community](https://discuss.tinyml.seas.harvard.edu/latest)
