@@ -35,6 +35,12 @@
 
 [Model freezing in proto buffer format exploration - hands on](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/saved_model.ipynb)
 
+## Image
+
+[Depthwise Separable Convolutions - // Logic behind mobilenet](https://learning.edx.org/course/course-v1:HarvardX+TinyML2+1T2022/block-v1:HarvardX+TinyML2+1T2022+type@sequential+block@7f21dd62ca5344a98653f0c8a4c877c6/block-v1:HarvardX+TinyML2+1T2022+type@vertical+block@5bc2a4040ae245f294825c8a404f42be)
+
+[MobileNet Paper](https://arxiv.org/pdf/1704.04861.pdf)
+
 ## Extra
 [Assigments, projects and more info from Harvard's onsite course](https://sites.google.com/g.harvard.edu/tinyml/home)
 
