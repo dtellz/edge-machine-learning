@@ -51,7 +51,11 @@
 
 [Pixel re-escaling layer](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Rescaling)
 
-[https://www.tensorflow.org/guide/keras/functional](Functional layers API)
+[Functional layers API](https://www.tensorflow.org/guide/keras/functional)
+
+# Anomaly detection
+
+[MIMII Dataset: sound dataset for malfunctioning indistrial machines](https://arxiv.org/pdf/1909.09347.pdf)
 
 # Colabs
 
