@@ -41,6 +41,8 @@
 
 [MobileNet Paper](https://arxiv.org/pdf/1704.04861.pdf)
 
+[Image preprocess and management in Tensorflow](https://www.tensorflow.org/tutorials/load_data/images)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
