@@ -69,6 +69,8 @@
 
 [Anomaly detection with k-means clustering](http://amid.fish/anomaly-detection-with-k-means-clustering)
 
+[Building autoencoders in keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
