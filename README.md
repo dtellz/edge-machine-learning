@@ -1,6 +1,8 @@
 # Toolkits for production AI application
 [Coral AI](https://coral.ai)
 
+[Machinery Anomaly detection with vibration](https://www.mathworks.com/help/predmaint/ug/anomaly-detection-using-3-axis-vibration-data.html)
+
 [Real world project tutorials](https://coral.ai/examples/#project-tutorials)
 
 [Open Source Speech datasets. KeyWordSpot, FullSentenceSegments, etc.](https://commonvoice.mozilla.org/en)
