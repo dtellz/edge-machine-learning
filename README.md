@@ -67,6 +67,8 @@
 
 [Electro CardioGram dataset](http://www.timeseriesclassification.com/description.php?Dataset=ECG5000)
 
+[Anomaly detection with k-means clustering](http://amid.fish/anomaly-detection-with-k-means-clustering)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
