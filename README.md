@@ -41,6 +41,10 @@
 
 [MobileNet Paper](https://arxiv.org/pdf/1704.04861.pdf)
 
+# Colabs
+
+[Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
+
 ## Extra
 [Assigments, projects and more info from Harvard's onsite course](https://sites.google.com/g.harvard.edu/tinyml/home)
 
