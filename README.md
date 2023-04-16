@@ -63,6 +63,8 @@
 
 [Link to MIMII Dataset](https://zenodo.org/record/3384388#.ZDxLBy8w0eY)
 
+[Variational autoencoders](https://www.tensorflow.org/tutorials/generative/cvae)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
