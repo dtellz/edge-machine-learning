@@ -1,3 +1,9 @@
+# Tools to go deeper into ML knowledge
+
+[MIT Deep learning book - Recommended by OpenAI](https://www.deeplearningbook.org)
+
+[Deep Reinforcement learning Tool - By OpenAi](https://spinningup.openai.com/en/latest/)
+
 # Toolkits for production AI application
 [Coral AI](https://coral.ai)
 
