@@ -15,6 +15,8 @@
 
 [Open Source Speech datasets. KeyWordSpot, FullSentenceSegments, etc.](https://commonvoice.mozilla.org/en)
 
+[Automatic hyperparameter optimization](https://cloud.google.com/automl)
+
 # Introduction to TinyML
 
 [how a Convolutional Neural Network can 'see' features in pictures](https://arxiv.org/pdf/1311.2901v3.pdf)
