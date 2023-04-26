@@ -79,6 +79,20 @@
 
 [Building autoencoders in keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 
+# Metrics
+
+[Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix)
+
+[Accuracy](https://en.wikipedia.org/wiki/Accuracy_and_precision)
+
+[Precision](https://en.wikipedia.org/wiki/Precision_and_recall)
+
+[false positive rate](https://en.wikipedia.org/wiki/False_positive_rate)
+
+[f1 score](https://en.wikipedia.org/wiki/F-score)
+
+[cross validation](https://machinelearningmastery.com/k-fold-cross-validation/)
+
 # Colabs
 
 [Mask detection with transfer learning / mobileNet V1](https://colab.research.google.com/github/tinyMLx/colabs/blob/master/3-7-11-Assignment.ipynb)
