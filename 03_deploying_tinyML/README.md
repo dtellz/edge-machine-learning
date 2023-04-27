@@ -7,3 +7,5 @@
 [Google's C++ Style guide](https://google.github.io/styleguide/cppguide.html)
 
 [C++ variables/functions/structures to control arduino](https://www.arduino.cc/reference/en/)
+
+[Full list of Arduino libraries](https://www.arduino.cc/reference/en/libraries/)
