@@ -103,3 +103,11 @@
 [Harvard's maching learning community](https://discuss.tinyml.seas.harvard.edu/latest)
 
 [Harvard's TinyML full course set](https://tinyml.seas.harvard.edu/courses/)
+
+## Board sensors documentation
+
+[Microphone: MP34DT05-A](https://www.st.com/resource/en/datasheet/mp34dt05-a.pdf)
+
+[Acceleromenter/gyroscope/magnetometer: LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf)
+
+[Camera: OV7675](https://www.uctronics.com/download/Image_Sensor/OV7675_DS.pdf)
