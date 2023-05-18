@@ -111,3 +111,17 @@
 [Acceleromenter/gyroscope/magnetometer: LSM9DS1](https://www.st.com/resource/en/datasheet/lsm9ds1.pdf)
 
 [Camera: OV7675](https://www.uctronics.com/download/Image_Sensor/OV7675_DS.pdf)
+
+## Emmbeded frameworks
+
+[Arduino](https://www.arduino.cc/)
+
+[PlatformIO](https://platformio.org/)
+
+[ARM cortex - CMSIS](https://developer.arm.com/tools-and-software/embedded/cmsis)
+
+[freeRTOS](https://www.freertos.org/)
+
+[mbed](https://os.mbed.com/)
+
+[STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
