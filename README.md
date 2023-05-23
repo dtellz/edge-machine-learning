@@ -9,6 +9,8 @@
 
 [Machinery Anomaly detection with vibration](https://www.mathworks.com/help/predmaint/ug/anomaly-detection-using-3-axis-vibration-data.html)
 
+[Open speech recording for keyword spoting apps](https://tinyml.seas.harvard.edu/open_speech_recording)
+
 [GAN: Generative Adversarial Networks AKA synthetic data generators](https://developers.google.com/machine-learning/gan)
 
 [Real world project tutorials](https://coral.ai/examples/#project-tutorials)
