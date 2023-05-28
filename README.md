@@ -1,3 +1,18 @@
+# Machine Learning deployed at the edge
+
+## Table of contents
+
+1. [Tools to go deeper into ML knowledge](#tools-to-go-deeper-into-ml-knowledge)
+2. [Toolkits for production AI application](#toolkits-for-production-ai-application)
+3. [Introduction to TinyML](#introduction-to-tinyml)
+4. [Applications of TinyML](#applications-of-tinyml)
+5. [Deploying tiny ML in embedded systems](#deploying-tiny-ml-in-embedded-systems)
+6. [Image - Visual Wake Words context](#image---visual-wake-words-context)
+7. [Anomaly detection](#anomaly-detection)
+8. [Metrics](#metrics)
+9. [Colabs](#colabs)
+10. [Extra](#extra)
+
 # Tools to go deeper into ML knowledge
 
 [MIT Deep learning book - Recommended by OpenAI](https://www.deeplearningbook.org)
@@ -48,6 +63,26 @@
 [Model checkpoin files exploration - hands on](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/checkpoint.ipynb)
 
 [Model freezing in proto buffer format exploration - hands on](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/guide/saved_model.ipynb)
+
+# Deploying tiny ML in embedded systems
+
+[C++ Official documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
+
+[C++ Simplified doc & tutorials](https://cplusplus.com/doc/tutorial/)
+
+[Google's C++ Style guide](https://google.github.io/styleguide/cppguide.html)
+
+[C++ variables/functions/structures to control arduino](https://www.arduino.cc/reference/en/)
+
+[Full list of Arduino libraries](https://www.arduino.cc/reference/en/libraries/)
+
+## Serial communication protocols
+
+[Universal asynchronous receive transmit (UART)](https://learn.sparkfun.com/tutorials/serial-communication/all)
+
+[I2C protocol](https://learn.sparkfun.com/tutorials/i2c)
+
+[Serial peripheral interface (SPI)](https://learn.sparkfun.com/tutorials/serial-peripheral-interface-spi)
 
 ## Image - Visual Wake Words context
 
