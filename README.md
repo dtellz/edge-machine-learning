@@ -1,5 +1,7 @@
 # Machine Learning deployed at the edge
 
+<p align='center'><img src='./03_deplyment/img/chip-brain.png' width='600' height='300'></p>
+
 ## Table of contents
 
 1. [Tools to go deeper into ML knowledge](#tools-to-go-deeper-into-ml-knowledge)
