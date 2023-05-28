@@ -10,8 +10,14 @@
 6. [Image - Visual Wake Words context](#image---visual-wake-words-context)
 7. [Anomaly detection](#anomaly-detection)
 8. [Metrics](#metrics)
-9. [Colabs](#colabs)
-10. [Extra](#extra)
+9. [C++ Intro](./03_deployment/GUIDE_C%2B%2BIntro.md)
+10. [Comunication protocols](./03_deployment/GUIDE_communication_protocols.md)
+11. [Serial communication protocols](#serial-communication-protocols)
+12. [Debugging microcontrollers](./03_deployment/GUIDE_debuggingMicrocontrollers.md)
+13. [Emmbeded frameworks](#emmbeded-frameworks)
+14. [Board sensors documentation](#board-sensors-documentation)
+15. [Colabs](#colabs)
+16. [Extra](#extra)
 
 # Tools to go deeper into ML knowledge
 
